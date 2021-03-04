@@ -1,6 +1,3 @@
-// CODE EXPLAINED channel
-// CODE EXPLAINED channel
-
 // Select the Elements
 const clear = document.querySelector(".clear");
 const dateElement = document.getElementById("date");
